@@ -19,5 +19,4 @@ myApp.sample = (param) ->
   
 # Call sample on start
 $ ->
-  $("#foo").hide
   myApp.sample("World") 
