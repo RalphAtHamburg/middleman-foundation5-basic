@@ -1,0 +1,12 @@
+!!!
+%html.no-js{lang: "en"}
+  %head
+    %meta{charset: "utf-8"}
+    %meta{content: "width=device-width, initial-scale=1.0", name: "viewport"}
+    %title= @title || "Middleman - Foundation 5"
+    = stylesheet_link_tag "app"
+    = javascript_include_tag "before"
+  %body{class: page_classes}
+    = yield
+    = partial "footer" 
+    = javascript_include_tag  "all"

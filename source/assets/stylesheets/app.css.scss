@@ -1,0 +1,23 @@
+// ---------------------------------------------------------
+// Root file for the stylesheets. This is the only file
+// that will be imported in the html header
+// ---------------------------------------------------------
+
+// ---------------------------------------------------------
+// Use this file to overwrite specific Foundations defaults
+// ---------------------------------------------------------
+
+@import "foundation_and_overrides";
+
+// ---------------------------------------------------------
+// Uncomment to get the whole Foundation framework ...
+// ---------------------------------------------------------
+
+@import "foundation.scss";
+
+@import "base/colors";
+@import "base/mixins";
+@import "base/typography";
+
+@import "modules/layout";
+@import "modules/sample";

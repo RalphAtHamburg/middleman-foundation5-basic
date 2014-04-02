@@ -1,0 +1,17 @@
+# Ignore bundler config
+/.bundle
+
+# Ignore the build directory
+/build
+
+# The content of this directory is maintained by bower, so don´t track it.
+/source/bower_components
+
+# Ignore Sass' cache
+/.sass-cache
+
+# Ignore cache
+/.cache
+
+# Ignore .DS_store file
+.DS_Store
