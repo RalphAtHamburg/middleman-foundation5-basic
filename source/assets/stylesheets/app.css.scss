@@ -13,7 +13,18 @@
 // Uncomment to get the whole Foundation framework ...
 // ---------------------------------------------------------
 
-@import "foundation.scss";
+//@import "foundation.scss";
+
+// ---------------------------------------------------------
+// ... or get only the needed foundation components ...
+// ---------------------------------------------------------
+
+@import "foundation/components/grid";
+@import "foundation/components/type";
+
+// ---------------------------------------------------------
+// Modules with site specific styles
+// ---------------------------------------------------------
 
 @import "base/colors";
 @import "base/mixins";
