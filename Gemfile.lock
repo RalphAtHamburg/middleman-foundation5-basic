@@ -11,7 +11,7 @@ GEM
     coffee-script (2.2.0)
       coffee-script-source
       execjs
-    coffee-script-source (1.7.0)
+    coffee-script-source (1.7.1)
     compass (0.12.6)
       chunky_png (~> 1.2)
       fssm (>= 0.2.7)
