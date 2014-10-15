@@ -31,7 +31,7 @@ GEM
       http_parser.rb (~> 0.6.0)
     erubis (2.7.0)
     eventmachine (1.0.3)
-    execjs (2.2.1)
+    execjs (2.2.2)
     ffi (1.9.6)
     haml (4.0.5)
       tilt
