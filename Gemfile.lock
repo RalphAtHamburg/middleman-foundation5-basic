@@ -33,7 +33,7 @@ GEM
     eventmachine (1.0.8)
     execjs (2.5.2)
     ffi (1.9.10)
-    haml (4.0.6)
+    haml (4.0.7)
       tilt
     hike (1.2.3)
     hitimes (1.2.2)
