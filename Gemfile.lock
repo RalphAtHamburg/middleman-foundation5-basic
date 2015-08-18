@@ -35,7 +35,7 @@ GEM
       http_parser.rb (~> 0.6.0)
     erubis (2.7.0)
     eventmachine (1.0.8)
-    execjs (2.5.2)
+    execjs (2.6.0)
     ffi (1.9.10)
     haml (4.0.7)
       tilt
@@ -117,7 +117,7 @@ GEM
     tilt (1.4.1)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    uber (0.0.13)
+    uber (0.0.14)
     uglifier (2.7.1)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
