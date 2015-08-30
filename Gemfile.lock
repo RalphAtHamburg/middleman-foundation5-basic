@@ -1,7 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    activesupport (4.2.3)
+    activesupport (4.2.4)
       i18n (~> 0.7)
       json (~> 1.7, >= 1.7.7)
       minitest (~> 5.1)
@@ -40,8 +40,8 @@ GEM
     haml (4.0.7)
       tilt
     hike (1.2.3)
-    hooks (0.4.0)
-      uber (~> 0.0.4)
+    hooks (0.4.1)
+      uber (~> 0.0.14)
     http_parser.rb (0.6.0)
     i18n (0.7.0)
     json (1.8.3)
@@ -101,7 +101,7 @@ GEM
     rb-fsevent (0.9.5)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
-    sass (3.4.16)
+    sass (3.4.18)
     sprockets (2.12.4)
       hike (~> 1.2)
       multi_json (~> 1.0)
@@ -118,7 +118,7 @@ GEM
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     uber (0.0.14)
-    uglifier (2.7.1)
+    uglifier (2.7.2)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
     xpath (2.0.0)
@@ -131,3 +131,6 @@ DEPENDENCIES
   middleman
   middleman-livereload
   wdm (~> 0.1.0)
+
+BUNDLED WITH
+   1.10.6
